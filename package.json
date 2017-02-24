@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/compedit/react-youtube",
   "dependencies": {
-    "youtube-player": "^4.0.1",
+    "youtube-player": "git://github.com/gajus/youtube-player.git#f93f18a9672218af1588af0f39551c1ecedfccb9",
     "lodash.isequal": "^4.4.0"
   },
   "devDependencies": {
